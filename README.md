@@ -1,1 +1,1 @@
-# CTTC_AIML_INTERN_HUB
+This repository holds all the projects and code from my AI-ML internship at CTTC, Bhubaneswar. It's a practical showcase of the machine learning and artificial intelligence concepts I applied during my professional training.
